@@ -1,38 +1,38 @@
 # NaN Academy
 
-Ecole de programation web.
+Ecole de programmation web.
 
 ## En Ligne
 ### Modulaire
-Un programme sous forme de modules, dans le contexte d'un projet personnaliser.
+Un programme sous forme de modules, dans le contexte d'un projet personnalisé.
 
 ### Open-Source
-L'esprit de l'open source est une evidence pour les programmeur,
-pourquoi nos ecole ne serais pas a l'image de nos outils ?
+L'esprit de l'open source est une évidence pour les programmeurs,
+pourquoi nos écoles ne seraient-elles pas à l'image de nos outils ?
 
-Il est encourager a tous de s'approprier, modifier et adapter le contenu pedagogique fournis par l'ecole.
+Il est recommandé à tous de s'approprier, modifier et adapter le contenu pédagogique fourni par l'école.
 
 ### Accessible
-Contenu en ligne accessible gratuitement sans pre-requis.
+Contenu en ligne accessible gratuitement sans pré-requis.
 
 ## Sur Place
-### Ouvert a tous
-L'acces au locaux est possible pour seule condition d'etre majeur et motiver.
-*(dans la limite des places disponnible)*
+### Ouvert à tous
+L'accès aux locaux est possible avec pour seules conditions être majeur et motivé.
+*(dans la limite des places disponibles)*
 
-### Apprendre essemble
-Partager ses difficultes est essentiel
+### Apprendre ensemble
+Partager ses difficultés est essentiel
 
-### Intense (comme carte noire)
-Des sessions en presentiel intensive d'une semaine dans l'ecole pour avancer efficacement.
+### Intense (comme Carte Noire)
+Des sessions intensives d'une semaine, en présentiel, dans l'école, pour avancer efficacement.
 
-### Un accompagnement personnaliser
-Des professionnels dispo, qui produise du contenu pedagogique personaliser et a jours.
+### Un accompagnement personnalisé
+Des professionnels disponibles, qui produisent du contenu pédagogique personnalisé et à jour, qui vous conseillent et vous orientent dans votre projet.
 
-Qui vous conseil et oriente dans votre projet.
 
 ### Un lieu de vie
+Un cadre familial et au calme, offrant gîte et couvert, afin de créer un environnement propice à la concentration.
 
 
 ### Comprendre
-Contrairement au models des bootcamp qui propose une vue d'essemble preciptee et superficiel de la programmation, je souhaite metre l'accent sur la comprehension en profondeur, au rythme de chacun.
+Contrairement au modele des bootcamps, qui proposent une vue d'ensemble précipitée et superficielle de la programmation, je souhaite mettre l'accent sur la compréhension en profondeur, au rythme de chacun.
