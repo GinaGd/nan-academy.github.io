@@ -31,6 +31,7 @@ Des professionnels disponibles, qui produisent du contenu pédagogique personnal
 
 
 ### Un lieu de vie
+Un cadre familial et au calme, offrant gîte et couvert, afin de créer un environnement propice à la concentration.
 
 
 ### Comprendre
